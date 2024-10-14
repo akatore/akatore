@@ -1,7 +1,9 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+there,+I'm+Abhijeet+Katore!+👋+%E2%9C%A9" width="70%" />
-<!-- # Hi there, I'm Abhijeet Katore! 👋 /!-->
+<!-- # Hi there, I'm Abhijeet Katore! 👋 /
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+!-->
 
 ### Technology Integration Engineer | Cloud Enthusiast | DevOps & Automation Expert
 Welcome to my GitHub! I'm a Technology Integration Engineer with a passion for Cloud Computing, Automation, and Containerization. I love building scalable infrastructure, automating workflows, and making DevOps magic happen!
@@ -9,6 +11,8 @@ Welcome to my GitHub! I'm a Technology Integration Engineer with a passion for C
 [![](https://img.shields.io/badge/Linkedin-0a66c2)](http://linkedin.com/in/akatore)
 [![](https://img.shields.io/badge/Credly-829F82)](https://www.credly.com/users/abhijeet-katore)
 [![](https://img.shields.io/badge/GoogleCloudSkillBadges-69899c)](https://www.cloudskillsboost.google/public_profiles/35026583-e4db-429a-8069-2527c9a8f043)
+
+<img src="https://i.pinimg.com/originals/a4/56/b5/a456b52e5394a08a5a34d7081dc835b1.gif" height="50" />
 </div>
 
 
@@ -17,7 +21,10 @@ Welcome to my GitHub! I'm a Technology Integration Engineer with a passion for C
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=akatore&show_icons=true&theme=light&hide=issues,contribs" alt="GitHub Stats" />  /!-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akatore&layout=compact&theme=light" alt="Top Langs" />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akatore&layout=compact&langs_count=3&theme=light" alt="Top Langs" /> /!-->
-  
+<!--
+    <img src="https://github-readme-stats.vercel.app/api?username=akatore&show_icons=true&theme=graywhite&hide=contribs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akatore&layout=compact&theme=solarized-light" alt="Top Langs" />
+  /!-->
 </p>
 
 
