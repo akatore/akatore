@@ -66,6 +66,7 @@ Welcome to my GitHub! I'm a Technology Integration Engineer with a passion for C
 - **HashiCorp Certified: Terraform Associate**
 - **Certified Kubernetes Application Developer (CKAD) - In Progress**
 
+<!-- !
 ### 🌐 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/akatore)
@@ -73,7 +74,7 @@ Welcome to my GitHub! I'm a Technology Integration Engineer with a passion for C
 - [Website](https://akatore.carrd.co)
 
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akatore&layout=compact&theme=radical) 
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akatore&layout=compact&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akatore&layout=compact&theme=light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akatore&layout=compact&theme=light)
 
