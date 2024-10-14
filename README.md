@@ -50,6 +50,17 @@ Welcome to my GitHub! I'm a Technology Integration Engineer with a passion for C
 
 ### 🧑‍💻 Projects
 
+| Project Name                                                                 | Description                                                                                                                  | Key Responsibilities                                                                                                     | Technologies Used                                                                                      | Link                                   |
+|-------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------|
+| **Deployment & Orchestration on GKE**                                         | Deployed and managed containerized applications on Google Kubernetes Engine (GKE).                                         | - Developed Dockerfiles and built images, pushing them to Artifact Registry.<br>- Created a GKE cluster to host applications.<br>- Deployed Docker images as Kubernetes workloads.<br>- Configured services as LoadBalancer for external access. | Docker, Google Kubernetes Engine (GKE), Artifact Registry, Cloud Shell, Flask                        | [View Project](#)                     |
+| **CI/CD with Terraform and Kubernetes**                                       | Implemented CI/CD pipelines to automate the deployment of applications on Google Cloud.                                    | - Designed and built CI/CD pipelines using Terraform and Kubernetes.<br>- Integrated application deployment processes.   | Terraform, Google Cloud, Kubernetes                                                                     | [View Project](#)                     |
+| **Implement CI/CD Pipelines on Google Cloud**                                 | Developed and implemented CI/CD pipelines to streamline application development and deployment.                             | - Automated build and deployment processes.<br>- Enhanced collaboration between development and operations teams.          | Google Cloud, Jenkins, Kubernetes                                                                        | [View Project](#)                     |
+| **Architecting and Managing Kubernetes Workloads on GKE**                     | Managed Kubernetes workloads and deployments, ensuring uptime and resource efficiency.                                       | - Managed workloads, deployments, and probing.<br>- Designed Kubernetes networking and configured services.<br>- Managed Persistent Volume Claims (PVCs), ConfigMaps, and Secrets.<br>- Implemented RBAC and Network Policy rules. | Kubernetes, Google Kubernetes Engine, RBAC, Persistent Volume Claims (PVCs)                             | [View Project](#)                     |
+| **Resilient AWS Architecture**                                                | Designed a resilient AWS architecture using EC2, RDS Multi-AZ, CloudWatch, and SNS for high availability.                    | - Deployed and managed EC2 instances and RDS databases.<br>- Configured monitoring and alerting using CloudWatch.<br>- Utilized SNS for notifications. | AWS EC2, AWS RDS, AWS CloudWatch, AWS SNS                                                               | [View Project](#)                     |
+| **Custom Amazon VPC Creation**                                                | Created a custom Amazon VPC with public/private subnets and automatic scaling and load balancing using EC2 and ALB.        | - Designed and implemented VPC architecture.<br>- Configured security groups and routing.<br>- Deployed applications with automatic scaling. | AWS VPC, AWS EC2, AWS ALB                                                                               | [View Project](#)                     |
+| **Terraform for Kubernetes LoadBalancer Deployment**                          | Utilized Terraform for deploying Kubernetes LoadBalancer services and cloud resource provisioning.                         | - Automated the deployment of LoadBalancer services.<br>- Provisioned necessary cloud resources efficiently.             | Terraform, Kubernetes, Google Cloud                                                                      | [View Project](#)                     |
+
+<!--
 - **[CI/CD Pipeline with Terraform and Kubernetes](https://github.com/akatore/GCP-projects/blob/main/CICD%20in%20GKE/ci-cd-on-gke.md)**  
   Implemented CI/CD pipelines on Google Cloud with Terraform for provisioning infrastructure and Kubernetes for deployment orchestration.
   
@@ -58,6 +69,8 @@ Welcome to my GitHub! I'm a Technology Integration Engineer with a passion for C
   
 - **AWS Resilient Architecture**  
   Architected and deployed an AWS environment with EC2, RDS Multi-AZ, CloudWatch, and SNS, ensuring high availability and fault tolerance.
+
+/!-->
 
 ### 🏆 Certifications
 
