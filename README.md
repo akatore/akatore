@@ -32,10 +32,10 @@ Welcome to my GitHub! I'm a Technology Integration Engineer with a passion for C
 
 ### 🚀 Skills
 
-- **Cloud Platforms**: Google Cloud (GKE, Compute Engine, Storage, Cloud Build), AWS (EC2, RDS, VPC, CloudFormation)
-- **Containerization & Orchestration**: Kubernetes, Docker, Skaffold
-- **Automation & Scripting**: Python, Shell Scripting, Ansible, Jenkins
-- **Networking & Security**: VPC, Firewall, RBAC, Load Balancers
+- **Cloud Platforms**: Google Cloud (GKE, Compute Engine, Storage, Cloud Build), AWS (EC2, RDS, VPC, CloudFormation) <img align='right' src="https://github.com/user-attachments/assets/ac9d0eef-5ef8-4109-8abd-4347f8800574" width="350">  <p>       .      </p>
+- **Containerization & Orchestration**: Kubernetes, Docker, Skaffold 
+- **Automation & Scripting**: Python, Shell Scripting, Ansible, Jenkins 
+- **Networking & Security**: VPC, Firewall, RBAC, Load Balancers 
 - **Infrastructure as Code**: Terraform, Ansible
 - **CI/CD**: Jenkins, GitHub Actions
 
