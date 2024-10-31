@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a Technology Integration Engineer with a passion for C
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akatore&show_icons=true&theme=light&hide=contribs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akatore&show_icons=true&theme=light&hide=contribs&rank_icon=percentile" alt="GitHub Stats" />
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=akatore&show_icons=true&theme=light&hide=issues,contribs" alt="GitHub Stats" />  /!-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akatore&layout=compact&theme=light" alt="Top Langs" />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akatore&layout=compact&langs_count=3&theme=light" alt="Top Langs" /> /!-->
